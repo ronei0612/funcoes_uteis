@@ -1,0 +1,13 @@
+c:\Users\Ronei\Documents\Visual Studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\Users\Ronei\Documents\Visual Studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\Users\Ronei\Documents\Visual Studio 2010\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\Users\Ronei\Documents\Visual Studio 2010\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Ronei\Documents\Visual Studio 2010\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Ronei\Documents\Visual Studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\commons-logging.dll
+C:\Users\Ronei\Documents\Visual Studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\fontbox-1.8.9.dll
+C:\Users\Ronei\Documents\Visual Studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Ronei\Documents\Visual Studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Ronei\Documents\Visual Studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Ronei\Documents\Visual Studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Ronei\Documents\Visual Studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\IKVM.Runtime.dll
+C:\Users\Ronei\Documents\Visual Studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\pdfbox-1.8.9.dll
